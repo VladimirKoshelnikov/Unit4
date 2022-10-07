@@ -10,9 +10,10 @@ class MainClass
         Console.WriteLine();
         Console.WriteLine("Введите строку №1");
         a = Console.ReadLine();
-        Console.WriteLine("Введите строку №2");
         
+        Console.WriteLine("Введите строку №2");
         b = Console.ReadLine();
+
         bool c = a != b;
 
         Console.WriteLine(c);
