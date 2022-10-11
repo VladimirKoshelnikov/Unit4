@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Task3Subtask17/Task3Subtask17.csproj",
+                "${workspaceFolder}/Task5Practice/Task5Practice.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/Task3Subtask17/Task3Subtask17.csproj",
+                "${workspaceFolder}/Task5Practice/Task5Practice.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/Task3Subtask17/Task3Subtask17.csproj"
+                "${workspaceFolder}/Task5Practice/Task5Practice.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
